@@ -124,6 +124,7 @@ Employee ID: EMP001
 Password: rohan123
 Role: employee
 
+<img width="1919" height="1002" alt="Screenshot 2025-11-19 164307" src="https://github.com/user-attachments/assets/ee332854-58d2-4fdc-a165-df9c2b9b447c" />
 
 <img width="1920" height="1080" alt="Screenshot (156)" src="https://github.com/user-attachments/assets/dfa846de-71f4-447e-a20d-ce5bd2da95e3" />
 <img width="1920" height="1080" alt="Screenshot (155)" src="https://github.com/user-attachments/assets/1b6f6649-58a1-4db0-8d71-b787899d33ff" />
